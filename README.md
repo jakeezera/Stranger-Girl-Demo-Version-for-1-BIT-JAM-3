@@ -12,13 +12,13 @@ Mouse -> Aim and attack
 
 ▀▄▀▄▀▄▀▄▀▄▀▄
 
-Artist and Programmer:  Lotuskk
+Artist and Programmer:  Jake
 
-Sound designer : Jakee
+Sound designer : Jake
 
 ▀▄▀▄▀▄▀▄▀▄▀▄
 
-Game made for 1-bit gamejam
+Game made for 1-bit GameJam
 
 ➤ Stranger Girl
 About:
@@ -29,4 +29,4 @@ Status	Released
 Platforms	Windows, HTML5
 Genre	Action, Platformer
 Made with	Construct
-Tags	2D, Indie, Metroidvania, Singleplayer
+Tags 2D, Indie, Metroidvania, Singleplayer

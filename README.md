@@ -11,12 +11,10 @@ E  -> Interact
 Mouse -> Aim and attack
 
 ▀▄▀▄▀▄▀▄▀▄▀▄
-╔═══━━━─── • ───━━━═══╗
 
 Artist and Programmer:  Lotuskk
 
 Sound designer : Jakee
-╚═══━━━─── • ───━━━═══╝
 
 ▀▄▀▄▀▄▀▄▀▄▀▄
 
